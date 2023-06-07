@@ -1,8 +1,5 @@
----
-layout: post
-title: 第一篇文章
-categories: 默认分类
-tags: 第一篇 文章 Hello World
----
+本人喜欢阅读历史，有很多感悟。
 
-Hello World
+以史为鉴！
+
+todo
