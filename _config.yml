@@ -1,0 +1,7 @@
+title: Your awesome title
+description: balabala
+github_username: jekyll
+permalink: /:title.html
+theme: minima
+plugins:
+  - jekyll-feed
